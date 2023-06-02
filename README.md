@@ -26,5 +26,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - FireBase
 
 ### Deployment
-This project is deployed on Netlify: [![Netlify Status](https://api.netlify.com/api/v1/badges/159e5c37-e51c-492b-b569-0e15504cba5c/deploy-status)](https://app.netlify.com/sites/orderfoodfromreactmeal/deploys)
+This project is deployed on Netlify: [![Netlify](https://orderfoodfromreactmeal.netlify.app/)
 
